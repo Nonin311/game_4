@@ -18,16 +18,7 @@
 *   `game-hub.py`：项目的主入口程序（游戏大厅），负责连接和调用上述四款小游戏。
 *   （其他游戏逻辑对应的 `.py` 源文件）
 
-### ⚙️ 运行与依赖
-*   **运行环境**：Python 3.x
-*   **依赖库**：本项目主要基于 Python 标准库开发。如部分游戏使用了第三方库（例如 `pygame` 或 `tkinter`），请在运行前通过以下命令安装（如无，请忽略此步）：
-    ```bash
-    pip install -r requirements.txt
-    ```
-*   **启动方式**：
-    ```bash
-    python game-hub.py
-    ```
+
 
 ### 🤖 技术致谢
 本项目的代码主要在 **DeepSeek-V4-Pro** 大语言模型的辅助下编写完成，并经过了人工调试与整合。
@@ -48,16 +39,6 @@ This project is a lightweight Python-based game launcher that integrates four cl
 *   `game-hub.py`: The main entry point (Game Hub) of the application, used to launch and switch between the four games.
 *   (Other corresponding `.py` source files for each game)
 
-### ⚙️ Getting Started
-*   **Prerequisites**: Python 3.x
-*   **Dependencies**: This project is built primarily using Python standard libraries. If any specific games require external packages, please install them via:
-    ```bash
-    pip install -r requirements.txt
-    ```
-*   **How to Run**:
-    ```bash
-    python game-hub.py
-    ```
 
 ### 🤖 Credits
 The code for this project was primarily generated with the assistance of the **DeepSeek-V4-Pro** large language model, followed by manual debugging and integration.
