@@ -44,6 +44,3 @@ This project is a lightweight Python-based game launcher that integrates four cl
 The code for this project was primarily generated with the assistance of the **DeepSeek-V4-Pro** large language model, followed by manual debugging and integration.
 
 ---
-
-## License
-This project is licensed under the [MIT License](LICENSE).
